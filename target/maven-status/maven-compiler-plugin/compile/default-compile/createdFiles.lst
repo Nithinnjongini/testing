@@ -1,0 +1,10 @@
+com/myapp/SpringMVCApp/controller/LogoutController.class
+com/myapp/SpringMVCApp/controller/LoginController.class
+com/myapp/SpringMVCApp/model/Login.class
+com/myapp/SpringMVCApp/service/UserService.class
+com/myapp/SpringMVCApp/dao/UserDaoImpl.class
+com/myapp/SpringMVCApp/service/UserServiceImpl.class
+com/myapp/SpringMVCApp/dao/UserDao.class
+com/myapp/SpringMVCApp/controller/RegistrationController.class
+com/myapp/SpringMVCApp/model/User.class
+com/myapp/SpringMVCApp/dao/UserMapper.class
