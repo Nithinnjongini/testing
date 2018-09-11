@@ -34,6 +34,5 @@ public class LoginController {
     mav.addObject("message", "Username or Password is wrong!!");
     }
     return mav;
-    
   }
 }
